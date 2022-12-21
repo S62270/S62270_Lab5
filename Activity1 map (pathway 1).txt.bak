@@ -1,0 +1,19 @@
+fun main() {
+    val peopleAges = mutableMapOf<String, Int>(
+        "Fred" to 30,
+        "Ann" to 23
+    )
+    peopleAges.put("Barbara", 42)
+    peopleAges["Joe"] = 51
+    println(peopleAges)
+    peopleAges.forEach { print("${it.key} is ${it.value}") }
+	println("")    
+    println(peopleAges.filter { it.key.length < 4 })
+    
+        val peopleNames = listOf("Fred", "Ann", "Barbara", "Joe")
+    println(peopleNames.sortedWith { str1: String, str2: String -> str1.length - str2.length })
+    
+    val triple: (Int) -> Int = { a: Int -> a * 3 }
+    println(triple(5))
+    
+}
