@@ -1,0 +1,4 @@
+#Fri Dec 23 19:15:31 SGT 2022
+base.0=D\:\\studies\\sem 3\\CSM3505 native programming\\S62270_Lab5\\Activity 4 pathway 1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
