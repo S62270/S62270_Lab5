@@ -19,7 +19,6 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
@@ -34,9 +33,10 @@ class PickupFragment : Fragment() {
     // Binding object instance corresponding to the fragment_pickup.xml layout
     // This property is non-null between the onCreateView() and onDestroyView() lifecycle callbacks,
     // when the view hierarchy is attached to the fragment.
-    private val sharedViewModel: OrderViewModel by activityViewModels()
-
     private var binding: FragmentPickupBinding? = null
+
+    // Use the 'by activityViewModels()' Kotlin property delegate from the fragment-ktx artifact
+    private val sharedViewModel: OrderViewModel by activityViewModels()
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -51,11 +51,9 @@ class PickupFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         binding?.apply {
-            viewModel = sharedViewModel
             lifecycleOwner = viewLifecycleOwner
+            viewModel = sharedViewModel
             pickupFragment = this@PickupFragment
-
-            nextButton.setOnClickListener { goToNextScreen() }
         }
     }
 
@@ -67,15 +65,22 @@ class PickupFragment : Fragment() {
     }
 
     /**
+     * Cancel the order and start over.
+     */
+    fun cancelOrder() {
+        // Reset order in view model
+        sharedViewModel.resetOrder()
+
+        // Navigate back to the [StartFragment] to start over
+        findNavController().navigate(R.id.action_pickupFragment_to_startFragment)
+    }
+
+    /**
      * This fragment lifecycle method is called when the view hierarchy associated with the fragment
      * is being removed. As a result, clear out the binding object.
      */
     override fun onDestroyView() {
         super.onDestroyView()
         binding = null
-    }
-    fun cancelOrder() {
-        sharedViewModel.resetOrder()
-        findNavController().navigate(R.id.action_pickupFragment_to_startFragment)
     }
 }
