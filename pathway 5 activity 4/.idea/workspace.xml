@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70683451-a4a7-46d6-95c2-1e032e5dd42b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/data_binding_trigger/debug/com/example/lunchtray/DataBindingTriggerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/buildConfig/debug/com/example/lunchtray/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/androidx/databinding/DataBinderMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/androidx/databinding/DataBindingComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/androidx/databinding/library/baseAdapters/BR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/com/example/lunchtray/BR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/com/example/lunchtray/DataBinderMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/com/example/lunchtray/databinding/FragmentAccompanimentMenuBindingImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/com/example/lunchtray/databinding/FragmentCheckoutBindingImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/com/example/lunchtray/databinding/FragmentEntreeMenuBindingImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build/generated/source/kapt/debug/com/example/lunchtray/databinding/FragmentSideMenuBindingImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/7.4.2/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/7.4.2/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/model/OrderViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/model/OrderViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/AccompanimentMenuFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/AccompanimentMenuFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/CheckoutFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/CheckoutFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/EntreeMenuFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/EntreeMenuFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/SideMenuFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/SideMenuFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/StartOrderFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/java/com/example/lunchtray/ui/order/StartOrderFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_accompaniment_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_accompaniment_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_checkout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_checkout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_entree_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_entree_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_side_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/layout/fragment_side_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pathway 5 activity 4/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../pathway 5 activity 4/local.properties" afterDir="false" />
-    </list>
+    <list default="true" id="70683451-a4a7-46d6-95c2-1e032e5dd42b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +17,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,7 +37,7 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pathway 5 activity 4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pathway 5 activity 3" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
